@@ -9,10 +9,7 @@
 
 ## About Laravel
 
-<video width="320" height="240" controls>
-  <source src="[movie.mp4](https://vkvideo.ru/video143234900_456239395?t=1s)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://vk.com/video_ext.php?oid=143234900&id=456239395&hd=2&hash=a688bd8048918769&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
